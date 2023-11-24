@@ -1,4 +1,5 @@
 # Frontend Mentor - Stats preview card component
+https://safia-asker.github.io/stats-preview-card-component/
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
